@@ -1,5 +1,5 @@
 # Correlation and regression for data analysis
-# Name:Raha DHIREN D
+# Name: DHIREN D
 # Reg no.:212225040074
 # Aim : 
 
